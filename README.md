@@ -1,16 +1,12 @@
-# dice_app
 
-A new Flutter project.
+[dicee_app.webm](https://user-images.githubusercontent.com/116374093/203176609-568c70c9-2295-4317-a357-2214b8741f01.webm)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Projeto 
 
-A few resources to get you started if this is your first Flutter project:
+Aplicativo desenvolvido como exercício do curso de Flutter. Esse aplicativo faz simulação de um dado.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologias
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart
+
